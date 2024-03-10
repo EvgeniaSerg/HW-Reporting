@@ -1,1 +1,2 @@
 ![img.png](img.png)
+[![Java CI with Gradle](https://github.com/EvgeniaSerg/HW-Reporting/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/EvgeniaSerg/HW-Reporting/actions/workflows/gradle.yml)
